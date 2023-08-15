@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "585503915243",
+    "project_id": "kimauth-d37e5",
+    "storage_bucket": "kimauth-d37e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585503915243:android:abebf7e38775957e2892ae",
+        "android_client_info": {
+          "package_name": "com.example.mail2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585503915243-s00ai3jdo4bodnivj1bughli2gs6rib1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb6Z_-4Nhrp6-uGSOCRL4RfQAsM2WCNPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585503915243-s00ai3jdo4bodnivj1bughli2gs6rib1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "585503915243-ke447i2sumjd2rjv5p4f29evbb95mb20.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mail2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

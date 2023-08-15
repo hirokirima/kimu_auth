@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "4bd0340c9dd2248022d930c7d95939a91bbce69d9f46b80722d66ef8959cde99"
+build_start_time: [1692022983, 715815000]
+build_end_time: [1692022983, 862600000]
+inputs:
+  "/Users/H.kimura/Downloads/rogin_mail-main/mail2/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1692022703, 120774564]
+  "/Users/H.kimura/Downloads/rogin_mail-main/mail2/macos/Runner/AppDelegate.swift": !private [1692012061, 0]
+  "/Users/H.kimura/Downloads/rogin_mail-main/mail2/macos/Runner/MainFlutterWindow.swift": !private [1692012061, 0]
